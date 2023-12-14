@@ -1,0 +1,15 @@
+#Double Click Heart exercise
+
+##Languages
+HTML, CSS, Javascript
+
+##Excercise purpose:
+It adds functionality to the page which works whenerver you double click on the picture. When you do animated heart appears in the place where you clicked and the counter of "liked times" is changing.
+
+This can be useful in some galleries, blogs, etc
+
+##Javascript used
+Mainly 'event listner', how to set own double click event, how to retrieve coordinates of x,y of the position where we clicked, and in the same place place some object, how to remove created html elements from browser memory.
+
+##Credits
+author of the course and example: Brad Traversy, github: https://github.com/bradtraversy
